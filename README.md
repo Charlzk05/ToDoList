@@ -1,2 +1,2 @@
 ### ToDo List
-- ToDo List Test
+- A Simple ToDo List Page
